@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    안녕하세요 ! 저는 dapp 개발을 주로 해왔습니다. 요즘은 게임 개발에 관심을 가지고 있습니다.
+    안녕하세요 ! 저는 댑 개발을 주로 해왔습니다. 요즘은 게임 개발에 관심을 가지고 있습니다.
     
 
   # This photo will be used in the about section
@@ -54,7 +54,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        berk-han-046150168
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
