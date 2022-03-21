@@ -28,7 +28,7 @@ description:           >
   세상 코딩의 블로그입니다.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               공부한 내용을 공유합니다.
 
 # A list of keywords for your blog
 keywords:              []
@@ -36,7 +36,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/brain.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -54,6 +54,8 @@ menu:
     url:               /docs/
   - title:             About
     url:               /about/
+  - title:             Backend
+    url:               /backend/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -79,8 +81,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
  
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+# remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
